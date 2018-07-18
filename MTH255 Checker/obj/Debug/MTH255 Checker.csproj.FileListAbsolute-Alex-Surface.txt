@@ -1,0 +1,10 @@
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.exe.config
+F:\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.exe.config
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.exe
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.pdb
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255 Checker.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255_Checker.Form1.resources
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255_Checker.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255 Checker.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255 Checker.exe
+C:\Users\Alejandro\Desktop\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255 Checker.pdb

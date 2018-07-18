@@ -1,0 +1,10 @@
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.exe.config
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.exe
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\bin\Debug\MTH255 Checker.pdb
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\ComplexNumbers-Calculator.csprojAssemblyReference.cache
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255_Checker.Form1.resources
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255_Checker.Properties.Resources.resources
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\ComplexNumbers-Calculator.csproj.GenerateResource.cache
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\ComplexNumbers-Calculator.csproj.CoreCompileInputs.cache
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255 Checker.exe
+E:\Alejandro\SkyDrive\Computer Engineering\MTH255 Checker\MTH255 Checker\obj\Debug\MTH255 Checker.pdb
